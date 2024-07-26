@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pascal4419
-- 👀 I’m interested in computer hardware 
-- 🌱 I’m currently learning computer hardware 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 07050534422
+- 👀 I’m interested in computer hardware and software programming
+- 🌱 I’m currently learning java programming
+- 💞️ I’m looking to collaborate with java to improve my skills
+- 📫 How to reach me 18u4419@student.mau.edu.ng
 - 😄 Pronouns: he or him
 - ⚡ Fun fact: dancing and singing 
 
